@@ -1,0 +1,5 @@
+kamene
+subprocess
+colorama
+socket
+argparse
